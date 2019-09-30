@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignageSocketServer</string>
+    <string name="dummy_address">169.254.32.8</string>
+    <string name="start">START!!</string>
+</resources>
